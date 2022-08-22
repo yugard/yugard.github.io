@@ -51,7 +51,7 @@ h3 {
     flex: 1;
 }
 
-content {
+.content {
     max-width: 500px;
     margin: auto;
 }
