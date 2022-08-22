@@ -50,3 +50,8 @@ h3 {
 .flex div {
     flex: 1;
 }
+
+content {
+    max-width: 500px;
+    margin: auto;
+}
